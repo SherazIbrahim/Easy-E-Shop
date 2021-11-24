@@ -1,0 +1,6 @@
+D:\Visual Studio Programming\Easy E-Shop\Properties_Layer\bin\Debug\Properties_Layer.dll
+D:\Visual Studio Programming\Easy E-Shop\Properties_Layer\bin\Debug\Properties_Layer.pdb
+D:\Visual Studio Programming\Easy E-Shop\Properties_Layer\obj\Debug\Properties_Layer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Programming\Easy E-Shop\Properties_Layer\obj\Debug\Properties_Layer.dll
+D:\Visual Studio Programming\Easy E-Shop\Properties_Layer\obj\Debug\Properties_Layer.pdb
+D:\Visual Studio Programming\Easy E-Shop\Properties_Layer\obj\Debug\Properties_Layer.csprojAssemblyReference.cache
